@@ -1,6 +1,7 @@
 # UrbanStay Hotel Booking Cancellation Prediction
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/f2cdf2f3-8eb1-498f-ba84-12e8a933b723" />
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/5d4f6517-1352-4293-bb0e-46e0026afa94" />
+
 
 
 A comprehensive machine learning project aimed at predicting hotel booking cancellations to improve the economic efficiency of the UrbanStay hotel chain. The project involves extracting data directly from a PostgreSQL database, performing exploratory data analysis, and building a binary classification model to identify high-risk bookings.
